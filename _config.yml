@@ -10,9 +10,6 @@ url: "https://ak1415.github.io/hope-for-healing" # the base hostname & protocol 
 instagram_username: hopeforhealing.ng
 github_username: ak1415
 
-# Google Analytics
-google_analytics: UA-XXXXXXXX-X # Replace with your Google Analytics tracking ID
-
 # Build settings
 theme: minima
 markdown: kramdown
